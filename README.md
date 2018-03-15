@@ -24,4 +24,4 @@ Config:
 Installation:
 Just put the Plugin in the plugins folder and restart / reload the server.
 
-Special thanks to @Dytanic who worked with me on the plugin and who helped with some packets.
+Special thanks to Dytanic who worked with me on the plugin and who helped with some packets.
