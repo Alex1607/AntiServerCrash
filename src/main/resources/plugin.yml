@@ -1,0 +1,5 @@
+name: CrashFix
+version: 1.0
+main: eu.mrkavatch.anticrash.Anticrash
+author: MrKavatch
+depend: [ProtocolLib]
